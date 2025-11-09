@@ -1,8 +1,11 @@
 // src/App.tsx
 import "./App.css";
-
+import Home from "./pages/home";
 function App() {
-  return <></>;
+  return (
+    <div className="flex">
+      <Home />
+    </div>
+  );
 }
-
 export default App;

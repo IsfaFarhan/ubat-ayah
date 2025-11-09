@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "gambar": "jantung_3_kali",
+    "masa": "Sebelum makan - 11 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Jantung (Angina)",
+    "peringatan": ""
+  },
+  {
+    "id": 2,
+    "gambar": "gastrik",
+    "masa": "Ambil 1 jam sebelum atau 2 jam selepas makan",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Gastrik",
+    "peringatan": ""
+  },
+  {
+    "id": 3,
+    "gambar": "kolesterol_1",
+    "masa": "Sebelum atau Selepas makan - 7 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Kolesterol",
+    "peringatan": "Wajib ambil diwaktu MALAM"
+  },
+  {
+    "id": 4,
+    "gambar": "kencing_manis_1",
+    "masa": "Sebelum atau Selepas makan - 7 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Kencing Manis",
+    "peringatan": ""
+  },
+  {
+    "id": 5,
+    "gambar": "kencing_manis_2",
+    "masa": "Selepas makan - 7 Malam",
+    "bil_ubat": "2 biji",
+    "tujuan_ubat": "Kencing Manis",
+    "peringatan": ""
+  },
+  {
+    "id": 6,
+    "gambar": "jantung_1",
+    "masa": "Selepas makan - 7 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Jantung (Angina)",
+    "peringatan": ""
+  },
+  {
+    "id": 7,
+    "gambar": "cair_darah_2",
+    "masa": "Selepas makan - 7 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Cair Darah",
+    "peringatan": ""
+  },
+  {
+    "id": 8,
+    "gambar": "kolesterol_2",
+    "masa": "Selepas makan - 7 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Kolesterol",
+    "peringatan": ""
+  },
+  {
+    "id": 9,
+    "gambar": "darah_tinggi_malam",
+    "masa": "Selepas makan - 7 Malam",
+    "bil_ubat": "1 biji",
+    "tujuan_ubat": "Darah Tinggi",
+    "peringatan": ""
+  }
+]
