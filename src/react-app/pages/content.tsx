@@ -8,6 +8,7 @@ type Items = {
   gambar: string;
   masa: string;
   bil_ubat: string;
+  cara_simpan: string;
   tujuan_ubat: string;
   peringatan: string;
 };
@@ -48,6 +49,7 @@ export default function Content() {
             masa={i.masa}
             bil_ubat={i.bil_ubat}
             tujuan_ubat={i.tujuan_ubat}
+            cara_simpan={i.cara_simpan}
             peringatan={i.peringatan}
           />
         ))}

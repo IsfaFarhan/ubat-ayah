@@ -4,6 +4,7 @@
     "gambar": "jantung_3_kali",
     "masa": "Sebelum makan - 7 Pagi",
     "bil_ubat": "1 biji",
+    "cara_simpan": "",
     "tujuan_ubat": "Jantung (Angina)",
     "peringatan": ""
   },
@@ -12,6 +13,7 @@
     "gambar": "darah_tinggi_pagi",
     "masa": "Sebelum atau Selepas makan - 7 Pagi",
     "bil_ubat": "1 biji",
+    "cara_simpan": "",
     "tujuan_ubat": "Darah Tinggi",
     "peringatan": "Wajib ambil diwaktu PAGI"
   },
@@ -20,6 +22,7 @@
     "gambar": "kencing_manis_1",
     "masa": "Sebelum atau Selepas makan - 7 Pagi",
     "bil_ubat": "1 biji",
+    "cara_simpan": "",
     "tujuan_ubat": "Kencing Manis",
     "peringatan": ""
   },
@@ -28,14 +31,16 @@
     "gambar": "cair_darah_1",
     "masa": "Selepas makan - 7 Pagi",
     "bil_ubat": "1 biji",
+    "cara_simpan": "",
     "tujuan_ubat": "Cair Darah",
-    "peringatan": "Wajib ambil diwaktu PETANG"
+    "peringatan": "Wajib ambil diwaktu PAGI"
   },
   {
     "id": 5,
     "gambar": "kencing_manis_2",
     "masa": "Selepas makan - 7 Pagi",
     "bil_ubat": "2 biji",
+    "cara_simpan": "",
     "tujuan_ubat": "Kencing Manis",
     "peringatan": ""
   },
@@ -44,6 +49,7 @@
     "gambar": "jantung_1",
     "masa": "Selepas makan - 7 Pagi",
     "bil_ubat": "1 biji",
+    "cara_simpan": "",
     "tujuan_ubat": "Jantung (Angina)",
     "peringatan": ""
   }
