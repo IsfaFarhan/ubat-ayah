@@ -31,7 +31,7 @@ export default function Card({
   return (
     <div className="flex flex-col justify-center-safe items-center-safe p-5 gap-3 max-w-[330px] bg-white rounded-2xl border border-[#E0E0E0]">
       <div className="flex justify-center-safe items-center-safe">
-        <p className="text-center">{tujuan_ubat}</p>
+        <h2 className="text-center text-lg">{tujuan_ubat}</h2>
       </div>
       <div className="flex">
         <img src={`/ubat/${gambar}.png`} alt={tujuan_ubat} className="flex" />
